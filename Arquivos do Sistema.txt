@@ -1,0 +1,19 @@
+# Arquivos do Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Ambientes Virtuais (Python)
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Node.js (se usar)
+node_modules/
+npm-debug.log
+
+# Logs e arquivos temporários
+*.log
+.vscode/
+.idea/
